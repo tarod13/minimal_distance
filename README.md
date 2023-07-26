@@ -1,1 +1,1 @@
-# minimal_distance
+Exploration of option discovery through minimal distance trajectory clustering.
